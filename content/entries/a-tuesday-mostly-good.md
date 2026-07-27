@@ -1,9 +1,10 @@
 ---
-title: A Tuesday, mostly good
+title: A Tuesday, mostly good....test
 date: 2026-07-09
 mood: rain
 moodLabel: light rain
-excerpt: "Nothing happened today, which I'm starting to think is underrated. Coffee, a long walk, and a good sandwich."
+excerpt: Nothing happened today, which I'm starting to think is underrated.
+  Coffee, a long walk, and a good sandwich. Wow... Brilliant job
 layout: entry.njk
 permalink: /entries/a-tuesday-mostly-good/
 ---
