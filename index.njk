@@ -1,0 +1,16 @@
+---
+layout: base.njk
+title: Logbook
+tagline: Small entries, most days.
+---
+<main class="logbook">
+{% for entry in collections.entries %}
+  <article class="entry">
+    {% moodGlyph entry.data.mood %}
+    <span class="date-stamp">{{ entry.data.date | readableDate }} — {{ entry.data.moodLabel }}</span>
+    <h2><a href="{{ entry.url }}">{{ entry.data.title }}</a></h2>
+    <p>{{ entry.data.excerpt }}</p>
+    <a class="read-more" href="{{ entry.url }}">Read entry →</a>
+  </article>
+{% endfor %}
+</main>
