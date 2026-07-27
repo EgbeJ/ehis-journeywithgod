@@ -1,0 +1,16 @@
+---
+layout: base.njk
+---
+<main class="post">
+  <a class="back-link" href="/">← Back to entries</a>
+
+  <header>
+    {% moodGlyph mood %}
+    <span class="date-stamp">{{ date | readableDate }} — {{ moodLabel }}</span>
+    <h1>{{ title }}</h1>
+  </header>
+
+  <div class="body-text">
+    {{ content | safe }}
+  </div>
+</main>

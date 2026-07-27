@@ -1,0 +1,36 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: simple
+
+media_folder: "images"
+public_folder: "/images"
+
+collections:
+  - name: "entries"
+    label: "Journal Entries"
+    folder: "content/entries"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Mood icon", name: "mood", widget: "select", options: ["sun", "cloud", "rain", "pray"], hint: "Which icon shows next to this entry" }
+      - { label: "Mood label", name: "moodLabel", widget: "string", hint: "Text shown next to the date, e.g. clear, overcast, in prayer" }
+      - { label: "Homepage preview text", name: "excerpt", widget: "text", hint: "A sentence or two shown on the homepage" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "entry.njk" }
+      - { label: "Web address", name: "permalink", widget: "string", hint: "The page's URL, e.g. /entries/my-post/ (letters, numbers, and dashes only)" }
+      - { label: "Writing", name: "body", widget: "markdown" }
+
+  - name: "about"
+    label: "About Page"
+    files:
+      - label: "About"
+        name: "about"
+        file: "content/about.md"
+        fields:
+          - { label: "Title", name: "title", widget: "hidden", default: "About" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "base.njk" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/about/" }
+          - { label: "Content", name: "body", widget: "markdown" }
