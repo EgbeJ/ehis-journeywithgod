@@ -1,7 +1,7 @@
 ---
 title: Who is God to me?
 mood: sun
-moodLabel: Sunny day
+moodLabel: Thoughtful
 excerpt: This question seeks to understand my relationship with God
 layout: entry.njk
 permalink: /entries/my-post/relationship-with-God
