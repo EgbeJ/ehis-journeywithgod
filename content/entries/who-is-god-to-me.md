@@ -1,10 +1,10 @@
 ---
 title: Who is God to me?
 mood: sun
-moodLabel: Thoughts
+moodLabel: Sunny day
 excerpt: This question seeks to understand my relationship with God
 layout: entry.njk
-permalink: /entries/my-post/relationship with God
+permalink: /entries/my-post/relationship-with-God
 ---
 God is my God
 
