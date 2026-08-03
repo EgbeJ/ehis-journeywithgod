@@ -4,7 +4,7 @@ mood: sun
 moodLabel: Thoughtful
 excerpt: This question seeks to understand my relationship with God
 layout: entry.njk
-permalink: /entries/my-post/relationship-with-God
+permalink: /entries/who-is-god-to-me
 ---
 God is my God
 
