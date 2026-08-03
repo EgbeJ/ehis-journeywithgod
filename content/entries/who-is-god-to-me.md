@@ -1,5 +1,6 @@
 ---
 title: Who is God to me?
+date: 2026-08-03
 mood: sun
 moodLabel: Thoughtful
 excerpt: This question seeks to understand my relationship with God
