@@ -12,7 +12,8 @@ collections:
     label: "Journal Entries"
     folder: "content/entries"
     create: true
-    slug: "{{slug}}"
+        # Use title for the entry slug (web address)
+    slug: "{{title}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
@@ -20,7 +21,6 @@ collections:
       - { label: "Mood label", name: "moodLabel", widget: "string", hint: "Text shown next to the date, e.g. clear, overcast, in prayer" }
       - { label: "Homepage preview text", name: "excerpt", widget: "text", hint: "A sentence or two shown on the homepage" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "entry.njk" }
-      - { label: "Web address", name: "permalink", widget: "string", hint: "The page's URL, e.g. /entries/my-post/ (letters, numbers, and dashes only)" }
       - { label: "Writing", name: "body", widget: "markdown" }
 
   - name: "about"
