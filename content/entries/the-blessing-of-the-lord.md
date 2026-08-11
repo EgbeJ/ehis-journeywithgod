@@ -2,7 +2,7 @@
 title: The blessing of the Lord
 date: 2026-08-11T09:32:00.000+01:00
 mood: sun
-moodLabel: Insight
+moodLabel: Thoughtful
 excerpt: "When afraid of the future, remember that God thoughts for us is of
   peace, hope and a future (Jeremiah 29: 11)."
 layout: entry.njk
