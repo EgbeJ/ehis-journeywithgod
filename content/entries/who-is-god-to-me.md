@@ -34,3 +34,5 @@ God is my saviour
 God is my protector
 
 God is my rock
+
+Reflective question: Who is God to you?
