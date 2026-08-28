@@ -11,7 +11,7 @@ What is the meaning of trust?
 
 To trust is to rely on or depend on someone or something.
 
-Therefore, to trust God is to rely on or depend on Him for everything. To trust God is to fully follow or obey Him. To trust God is to give Him control over everything. God wants us to trust Him, that is, to rely on/depend on Him for everything and not to lean on ourselves 
+Therefore, to trust God is to rely on or depend on Him for everything. To trust God is to fully follow or obey Him. To trust God is to give Him control over everything. God wants us to trust Him, that is, to rely on or depend on Him for everything and not to lean on ourselves.
 
 To trust God also means surrendering control of your life to Him.
 
