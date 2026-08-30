@@ -1,5 +1,5 @@
 ---
-title: Promises of God to those who love Him
+title: Promises of God to those who love Him (Psalm 91:14-16)
 date: 2026-08-30T16:09:00.000+01:00
 mood: sun
 moodLabel: Clear
