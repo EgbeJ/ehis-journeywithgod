@@ -18,8 +18,8 @@ layout: entry.njk
 4. Psalms 3:3 - "But You, O Lord, are a shield for me, My glory and the one who lifts up my head."
 5. Hebrews 13: 6 - "The LORD is my helper; I will not fear". 
 6. God goes with me, He will not leave me nor forsake me (Deuteronomy 31:6)
-7. I choose to replace my fears with trust in God. God wants me to trust Him and not to lean in my own understanding (Proverbs 3: 5).
-8. 2 Timothy 1: 7 - "For God has not given us a spirit of fear, but of power, and of love, and if a sound mind".
+7. I choose to replace my fears with trust in God. God wants me to trust Him and not to lean on my own understanding (Proverbs 3: 5).
+8. 2 Timothy 1: 7 - "For God has not given us a spirit of fear, but of power, and of love, and of a sound mind".
 9. Isaiah 43:1-3 - "Fear not, for I have redeemed you; I have called you by your name; You are Mine.
 
 When you pass through the waters, I will be with you; And through the rivers, they shall not overflow you. When you walk through the fire, you shall not be burned, nor shall the flame scorch you.
