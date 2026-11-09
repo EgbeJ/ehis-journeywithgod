@@ -16,6 +16,9 @@ layout: entry.njk
 6. Honour and majesty are before God; Strength and gladness are in His place (1 Chronicles 16:27).
 7. Both riches and honour come from God, and He reigns over all. In His hand is power and might; In God's hand it is to make great and to give strength to all ( 1 Chronicles 29:12).
 8. Psalm 18:1- "I will love You, O Lord, my strength"
-9. Psalm 18: 2- " The Lord is my rock and my fortress and my deliverer; My God, my strength, in whom I will trust; My shield and the horn of my salvation, My stronghold."
+9. Psalm 18: 2- "The Lord is my rock and my fortress and my deliverer; My God, my strength, in whom I will trust; My shield and the horn of my salvation, My stronghold."
 10. Psalm 18: 32- "It is God who arms me with strength, and makes my way perfect."
-11.
+11. Psalm 18: 39- "God has armed me with strength for the battle; and have subdued under me those who rose up against me (2 Samuel 22:40)."
+12. Psalm 19:14- "Let the words of my mouth and the meditation of my heart be acceptable in Your sight, O Lord, my strength and my Redeemer".
+13. Psalm 20:6- "Now I know that the Lord saves His anointed; He will answer him from His holy heaven with the saving strength of His right hand."
+14. Psalm 27: 1- "The Lord is my
