@@ -3,7 +3,7 @@ title: Learning to Trust God
 date: 2026-08-15T19:22:00.000+01:00
 mood: sun
 moodLabel: Thought
-excerpt: '" Trust in the Lord with all your heart, And lean not on your own
+excerpt: '"Trust in the Lord with all your heart, And lean not on your own
   understanding (Proverbs 3:5)NKJV.'
 layout: entry.njk
 ---
