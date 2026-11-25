@@ -21,4 +21,7 @@ layout: entry.njk
 11. Psalm 18: 39- "God has armed me with strength for the battle; and have subdued under me those who rose up against me (2 Samuel 22:40)."
 12. Psalm 19:14- "Let the words of my mouth and the meditation of my heart be acceptable in Your sight, O Lord, my strength and my Redeemer".
 13. Psalm 20:6- "Now I know that the Lord saves His anointed; He will answer him from His holy heaven with the saving strength of His right hand."
-14. Psalm 27: 1- "The Lord is my
+14. Psalm 27: 1- "The Lord is my light and my salvation; Whom shall I fear? The Lord is the strength of my life; Of whom shall I be afraid?
+15. Psalm 28:7-8- "The Lord is my strength and my shield; My heart trusted in Him, and I am helped; Therefore my heart greatly rejoices, and with my song I will praise Him. The Lord is their strength, And He is the saving refuge of His anointed.
+16. "The Lord will give strength to His people; The Lord will bless His people with peace". Psalm 29:11
+17.
