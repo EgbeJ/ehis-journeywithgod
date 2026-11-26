@@ -24,4 +24,7 @@ layout: entry.njk
 14. Psalm 27: 1- "The Lord is my light and my salvation; Whom shall I fear? The Lord is the strength of my life; Of whom shall I be afraid?
 15. Psalm 28:7-8- "The Lord is my strength and my shield; My heart trusted in Him, and I am helped; Therefore my heart greatly rejoices, and with my song I will praise Him. The Lord is their strength, And He is the saving refuge of His anointed.
 16. "The Lord will give strength to His people; The Lord will bless His people with peace". Psalm 29:11
-17.
+17. Psalm 31: 4- "Pull me out of the net which they have secretly laid for me, For you are my strength."
+18. Psalm 37: 39- "But the salvation of the righteous is from the Lord; He is their strength in the time of trouble."
+19. Psalm 46:1- "God is our refuge and strength, A very present help in trouble".
+20. Psalm 59: 17- "To You, O my strength, I will sing praises; For God is my defense, My God of mercy".
