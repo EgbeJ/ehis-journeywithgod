@@ -28,3 +28,8 @@ layout: entry.njk
 18. Psalm 37: 39- "But the salvation of the righteous is from the Lord; He is their strength in the time of trouble."
 19. Psalm 46:1- "God is our refuge and strength, A very present help in trouble".
 20. Psalm 59: 17- "To You, O my strength, I will sing praises; For God is my defense, My God of mercy".
+21. Psalm 62: 7- "In God is my salvation and my glory; The rock of my strength, And my refuge, is in God".
+22. Psalm 68: 28- "Your God has commanded your strength; Strengthen, O God , what You have done for us."
+23. God is my Strength (Psalm 31:4; Isaiah 12: 2;    Habakuk 3: 19).
+24. Isaiah 12: 2- "Behold, God is my Salvation, I will trust and not be afraid; 'For Yah, the Lord, is my strength and song; He also has become my Salvation."
+25. Habakuk 3:19 - " The Lord God is my Strength; He will make my feet like deer's feet, And He will make me walk on my high hills."
