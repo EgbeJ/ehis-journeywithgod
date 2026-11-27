@@ -33,3 +33,5 @@ layout: entry.njk
 23. God is my Strength (Psalm 31:4; Isaiah 12: 2;    Habakuk 3: 19).
 24. Isaiah 12: 2- "Behold, God is my Salvation, I will trust and not be afraid; 'For Yah, the Lord, is my strength and song; He also has become my Salvation."
 25. Habakuk 3:19 - "The Lord God is my Strength; He will make my feet like deer's feet, And He will make me walk on my high hills."
+26. Ephesians 3:16 - "That He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man".
+27. Nehemiah 8:10 - "Then he said to them, "Go your way, eat the fat, drink the sweet, and send portions to those for whom nothing is prepared; for this day is holy to our Lord. Do not sorrow, for the joy of the Lord is your strength."
