@@ -36,3 +36,6 @@ layout: entry.njk
 26. Ephesians 3:16 - "That He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man".
 27. Nehemiah 8:10 - "Then he said to them, "Go your way, eat the fat, drink the sweet, and send portions to those for whom nothing is prepared; for this day is holy to our Lord. Do not sorrow, for the joy of the Lord is your strength."
 28. Psalm 118:14 - "The Lord is my Strength and song, And He has become my Salvation".
+29. 2 Corinthians 12:9-10 - "And He said to me, 'My grace is sufficient for you, for My Strength is made perfect in weakness'. Therefore most gladly I will rather boast in my infirmities, that the power of Christ may rest upon me. Therefore I take pleasure in infirmities, in reproaches, in needs, in persecutions, in distresses, for Christ's sake. For when I am weak, then I am strong".
+30. Psalm 46:1 - "God is our refuge and strength, A very present help in trouble".
+31. Mark 12:30 - "And you shall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength". This is the first commandment."
